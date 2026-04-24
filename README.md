@@ -10,7 +10,7 @@
 
 ---
 
-Your notes are precious. This plugin keeps them safe by syncing your entire Obsidian vault to a private [Hugging Face Bucket](https://huggingface.co/docs/huggingface_hub/guides/buckets) on a schedule you control — no third-party sync service, no subscription, just your data on infrastructure you trust.
+Your notes are precious. This plugin keeps them safe by syncing your entire Obsidian vault to a private [Hugging Face Bucket](https://huggingface.co/docs/huggingface_hub/guides/buckets) on a schedule you control.
 
 ## Features
 
