@@ -1,6 +1,6 @@
 {
-  "id": "obsidian-hf-sync",
-  "name": "HF Sync",
+  "id": "hugsidian",
+  "name": "Hugsidian",
   "version": "0.1.0",
   "minAppVersion": "1.4.0",
   "description": "Sync your Obsidian vault to a Hugging Face Bucket.",
