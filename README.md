@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="80" alt="Hugging Face logo" />
   <h1>obsidian-hf-sync</h1>
-  <p><strong>Back up your Obsidian vault to a <a href="https://huggingface.co/docs/huggingface_hub/guides/buckets">Hugging Face Bucket</a> — automatically.</strong></p>
+  <p><strong>Back up your Obsidian vault to a <a href="https://huggingface.co/storage">Hugging Face Bucket</a> — automatically.</strong></p>
 
   <img src="https://img.shields.io/badge/Obsidian-Plugin-7C3AED?logo=obsidian&logoColor=white" alt="Obsidian Plugin" />
   <img src="https://img.shields.io/badge/Hugging%20Face-Buckets-FFD21E?logo=huggingface&logoColor=black" alt="HF Buckets" />
