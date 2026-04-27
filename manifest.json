@@ -3,7 +3,7 @@
   "name": "Hugsidian",
   "version": "0.1.0",
   "minAppVersion": "1.4.0",
-  "description": "Sync your Obsidian vault to a Hugging Face Bucket.",
+  "description": "Sync your vault to a Hugging Face Bucket.",
   "author": "Nathan Habib",
   "isDesktopOnly": true
 }
